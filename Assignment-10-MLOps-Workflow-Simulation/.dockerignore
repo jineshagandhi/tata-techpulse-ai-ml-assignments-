@@ -1,0 +1,9 @@
+data/
+tests/
+mlruns/
+mlartifacts/
+mlflow.db
+**/__pycache__/
+.pytest_cache/
+requirements.txt
+README.md

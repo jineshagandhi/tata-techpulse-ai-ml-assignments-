@@ -13,5 +13,7 @@ It includes practical implementations covering machine learning, deep learning, 
 | 6 | Traffic Sign Classification using CNN | Convolutional Neural Network, GTSRB |
 | 7 | Pedestrian Detection using OpenCV | HOG descriptor with SVM, IoU evaluation |
 | 8 | Sentiment Analysis using LSTM | Recurrent network on customer reviews |
+| 9 | Feature Importance Visualization | Impurity and permutation importance, partial dependence |
+| 10 | MLOps Workflow Simulation | MLflow tracking and registry, FastAPI, Docker, GitHub Actions CI/CD |
 
 Each folder contains its notebook and a README describing the dataset and how to obtain it.
