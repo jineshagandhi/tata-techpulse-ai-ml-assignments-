@@ -1,0 +1,11 @@
+# Datasets downloaded separately (see each assignment README)
+Assignment-6-Traffic-Sign-Classification-CNN/GTSRB/
+Assignment-6-Traffic-Sign-Classification-CNN/*.zip
+Assignment-6-Traffic-Sign-Classification-CNN/GT-final_test.csv
+Assignment-7-Pedestrian-Detection-OpenCV/PennFudanPed/
+Assignment-7-Pedestrian-Detection-OpenCV/*.zip
+Assignment-8-Sentiment-Analysis-LSTM/*.gz
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
